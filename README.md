@@ -1,7 +1,5 @@
 
 CS400 Project Four Proposal  
-TEAM: DB TEAM FLIPGRID: http://flipgrid.com/cs400db  
-TA: Yelun TA EMAIL: ybao35@wisc.edu  
 TEAM EMAILS: 1. xli2224@wisc.edu 2. slee986@wisc.edu 3. yli2244@wisc.edu 4. vasquezgarci@wisc.edu 5. bhuffar@wisc.edu 6. shallhoub@wisc.edu 7. rwasserman2@wisc.edu 8. agrawal28@wisc.edu
 
 
